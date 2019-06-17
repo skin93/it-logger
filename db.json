@@ -1,6 +1,5 @@
 {
-  "logs": [
-    {
+  "logs": [{
       "id": 1,
       "message": "Changed hard drive on workstation 005",
       "attention": false,
@@ -22,8 +21,7 @@
       "tech": "Sara Wilson"
     }
   ],
-  "techs": [
-    {
+  "techs": [{
       "id": 1,
       "firstName": "John",
       "lastName": "Doe"
